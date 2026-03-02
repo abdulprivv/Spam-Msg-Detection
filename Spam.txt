@@ -1,0 +1,42 @@
+File Running Case:
+
+.\.venv\Scripts\activate
+
+streamlit run app.py
+
+*****************************************
+
+✅ Not Spam Messages
+"Hey, are we still meeting for lunch at 1 PM?"
+
+"Your order has been shipped and will arrive by Tuesday."
+
+"Happy birthday! Hope you have an amazing day 🎉"
+
+"Please review the attached report before our meeting."
+
+"Reminder: Your dentist appointment is scheduled for tomorrow at 10:00 AM."
+
+"Can you send me the project files before end of day?"
+
+"Great job on the presentation today!"
+
+"Looking forward to our team outing next week."
+
+******************************************************
+🚫 Spam Messages
+"Congratulations! You’ve won a $1,000 gift card. Click here to claim now!"
+
+"Earn $500 a day working from home – no experience needed!"
+
+"You’ve been selected for a free iPhone! Tap the link to get it."
+
+"URGENT: Your account has been compromised. Reset your password here: fake-link.com"
+
+"Limited time offer! Buy now and get 75% off!"
+
+"Click here to see who’s been searching for you online!"
+
+"This secret trick will help you lose 10 pounds in 1 week!"
+
+"Act now! This deal expires in 2 hours!"

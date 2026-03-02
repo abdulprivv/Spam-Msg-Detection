@@ -1,0 +1,9 @@
+link: 
+https://test1.checklist-fpcl.com/wp-admin/
+
+
+
+pass:
+
+user: admin
+Password: project12345
